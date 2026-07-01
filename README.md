@@ -41,6 +41,13 @@ Desde una sola ventana el operador puede:
 Toda la comunicación con el robot se realiza en tiempo real sobre **WebSockets**, contra un puente que traduce entre la interfaz y el grafo de ROS 2.
 
 ---
+## Capturas
+<img width="1919" height="1009" alt="Captura desde 2026-07-01 16-09-20" src="https://github.com/user-attachments/assets/dc1615f7-4596-418a-9686-e803783f77b7" />
+<img width="1919" height="1009" alt="Captura desde 2026-07-01 16-09-08" src="https://github.com/user-attachments/assets/2c7815cf-780e-4c6e-b93a-19a309c1b840" />
+<img width="1919" height="1009" alt="Captura desde 2026-07-01 16-08-50" src="https://github.com/user-attachments/assets/4316b5ca-5278-4c66-9232-f11510231409" />
+<img width="1919" height="1009" alt="Captura desde 2026-07-01 16-08-59" src="https://github.com/user-attachments/assets/58988706-6331-4c2f-be07-f901b0246a0a" />
+
+---
 
 ## ✨ Características principales
 
